@@ -1,2 +1,3 @@
-# Proj3_ChatApplication
-Project 3 Chat Application
+# chat-app
+
+THis application is for Project No3
